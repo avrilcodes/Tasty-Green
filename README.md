@@ -1,2 +1,2 @@
-# tasty-green
-Tasty Green Restaurant Website/App
+# tasty-food
+Tasty Food Restaurant Website/App
